@@ -11,7 +11,7 @@ This tool is designed solely to assist in the legal and ethical bug finding proc
 git clone https://github.com/Ryygans/auto-recon.git
 cd auto-recon
 chmod +x *
-./installer-recon.sh (install tools first)
+./installer.sh (install tools first)
 ./auto-recon.sh
 ```
 
